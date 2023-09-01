@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:get_storage/get_storage.dart';
@@ -10,6 +11,10 @@ import 'package:job_seekers/utils/route.dart';
 void main() async{
   await GetStorage.init("TSH");
   GlobalController g = Get.put(GlobalController());
+  SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+    systemNavigationBarColor: Colors.blue, // navigation bar color
+    statusBarColor: Colors.white, // status bar color
+  ));
   bool? isdark;
   bool? isEnglish;
   isdark = g.getStorage.read('isDark');
