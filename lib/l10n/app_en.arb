@@ -1,0 +1,306 @@
+{
+  "appTitle": "Nepali Calender",
+   "@appTitle": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "welcomeTo": "Welcome To",
+   "@welcomeTo": {
+    "description": "The cborn programmer greeting"
+  },
+  "sanatanNepali": "Sanatan Nepal",
+   "@sanatanNepali": {
+    "description": "The cr greeting"
+  },
+  "selectLanguage": "Select Language",
+   "@selectLanguage": {
+    "description": "The coneeting"
+  },
+  "selectTheme": "Select Theme",
+   "@selectTheme": {
+    "description": " newborn programmer greeting"
+  },
+  "dark": "Dark ",
+   "@dark": {
+    "description": "T greeting"
+  },
+  "light":"Light",
+   "@light": {
+    "description": "The cting"
+  },
+  "english":"English",
+   "@english": {
+    "description": "Thting"
+  },
+  "nepali":"Nepali",
+   "@nepali": {
+    "description": "Thtingreeting"
+  },
+  "contin":"Continue",
+   "@nepali": {
+    "description": "Button Text in welcome Screen"
+  },
+   "busTitle":"ADD YOUR BUSINESS DETAILS HERE",
+   "busDetails":"Business Details",
+   "serviceDetails":"Service Details",
+   "productDetails":"Product Details",
+   "pleaseEnterPhoneNumber":"Please Enter Phone Number",
+   "pleaseEnterEmail":"Please Enter Email",
+   "shortLine":"Short line that describes your business (20 words)",
+    "enterAValidEmailAddress":"Enter a valid email address",
+    "pleaseEnterMobileNumber":"Please enter mobile number",
+    "pleaseEnterValidMobileNumber":"Please enter valid mobile number",
+    "businessName":"Business Name",
+    "officialBusinessName":"Official Business name",
+    "pleaseEnterBusinessName":"Please Enter Business Name",
+    "businessType":"Business Type",
+    "egDigitalMarketingAgency":"eg: Digital Marketing Agency",
+    "pleaseEnterBusinessType":"Please Enter Business Type",
+    "businessDescription":"Business Description",
+    "shortDescription":"Short description about business (20 words)",
+    "pleaseEnterBusinessDetails":"Please Enter Business Details",
+    "websiteURL":"Website URL",
+    "phoneNumber":"Phone Number",
+    "email":"Email",
+    "whatsAppNumber":"WhatsApp Number",
+    "officeLocation":"Office Location",
+    "googleMapLink":"Google Map Link",
+    "googleMapLinkOfYourOfficeAddress":"Google map link of your office address",
+    "cancel":"Cancel",
+    "save":"Save",
+
+
+    "serviceTitle":"Service Title",
+    "pleaseEnterServiceTitle":"Please Enter Service Title",
+    "addServicephoto":"Add Service photo",
+    "noFilesChoosen":"no files choosen",
+    "serviceDescription":"Service Description",
+    "serviceDescriptionin":"Service description in two lines..",
+    "servicePrice":"Service Price",
+    "fixed":"Fixed",
+    "variable":"Variable",
+    "pleaseEnterAmount":"Please enter amount",
+    "service1":"Service 1",
+    "service2":"Service 2",
+    "service3":"Service 3",
+    "addNewService":"Add New Service",
+    "addupdate":"Add / Update",
+    "egWebDesign":"eg: Web Design",
+
+
+
+
+     "productCategory1":"Product Category 1",
+     "productCategory2":"Product Category 2",
+     "productCategory3":"Product Category 3",
+     "addNewCategory":"+Add new Category",
+     "productTitle":"Product Title",
+     "pleaseEnterProductTitle":"Please Enter Product Title",
+     "addProductPhoto":"Add Product photo",
+     "productDescription":"Product Description",
+     "productDescriptionInThreeLines":"Product description in three lines..",
+     "productCategory":"Product Category",
+     "selectYourGender":"Select Your Gender",
+     "pleaseSelectGender":"Please select gender.",
+     "productCategoryName":"Product Category Name",
+     "pleaseEnterProductCategoryName":"Please enter product category name",
+     "categoryPhoto":"Category photo",
+     "productPurchaseLink":"Product Purchase Link",
+     "egWebsiteCom":"eg: website.com/productname (if any)",
+     "pleaseEnterProductPurchaseLink":"Please Enter Product Purchase Link",
+     "product1":"Product 1",
+     "product2":"Product 2",
+     "product3":"Product 3",
+     "addNewProduct":"Add New Product",
+
+
+     "pleaseEnterFirstName":"Please Enter First Name",
+     "pleaseEnterLastName":"Please Enter Last Name",
+     "pleaseEnterAddress":"Please Enter Address",
+     "tOWNCITY":"TOWN / CITY",
+     "pROVINCE":"PROVINCE",
+     "pleaseSelectProvince":"Please select province.",
+     "checkout":"Checkout",
+     "firstName":"First Name",
+     "lastName":"Last Name",
+     "cOUNTRYREGION":"COUNTRY / REGION",
+     "pleaseSelectCountry":"Please select country",
+     "streetAddress":"Street Address",
+     "pOSTCODEZIP":"POSTCODE / ZIP",
+     "pHONEOPTIONAL":"PHONE (OPTIONAL)",
+     "shipToADifferent":"Ship to a different Address?",
+     "orderNotes":"ORDER NOTES (OPTIONAL)",
+     "notesAboutYourOrder":"Notes about your order, e.g. special notes for delivery.",
+     "subtotal":"Subtotal",
+     "shipping":"Shipping",
+     "shopping": "Shopping",
+     "discount":"Discount",
+     "shippingCosts":"Shipping Costs",
+     "iConfirmThatMy":"I confirm that my address is 100% correct and \nWILL NOT hold Top Shlf BC liable if this shipment is\n sent to an incorrect address.",
+     "placeOrder":"Place Order",
+     "securePayments":"SECURE PAYMENTS PROVIDED BY",
+     "yourOrderHas":"Your Order Has Been Confirmed",
+     "status":"Status",
+     "paid":"Paid",
+     "order":"Order",
+     "gOTOHOME":"GO TO HOME",
+     "sHOPMORE":"SHOP MORE",
+     "pleaseEnterTOWNCITY":"Please Enter TOWN/CITY",
+     "pleaseEnterPOSTCODE":"Please Enter POSTCODE",
+     "deliveryPayment":"Delivery Payment",
+
+
+
+
+     "ramNawami":"Ram Nawami",
+     "daysLeft":"Days Left",
+     "panchang":"Panchanga \n& Suva Sait ",
+     "addEventReminder":"Add \nEvent/Reminder ",
+     "video":"Video",
+     "descriptionNew":"Description",
+     "howToCele":"How To Celebrate",
+     "attractionPlaces":"Attraction Places",
+     "youCanBathe":"1. You can bathe and dress up miniature idols of Lord Ram and place them in a cradle to mark his birth \n2. You can light a lamp in front of the idol \n3. You can also celebrate this day by providing food to the needy. \n4. If you want to delve deep into this ritual, you can even invite nine girls at home, shower them with respect and offer them prashad in the form of halwa and puri. This is popularly known as the Kanya Puja ritual, where girls are believed to be the manifestation of Indian Goddesses",
+     "onThisAuspicious":"On this auspicious festival, the devotees visit Ram or Vishnu temples that spread across Nepal. The ",
+     "ramJanakiTemple":"Ram Janaki Temple",
+     "willBeThronged":"will be thronged with devotees on this day.",
+     "otherImportant":"Other important temples that will be filled with devotees on this festival are: \n1. Ram Mandir in Battisputali Changu \n2. Narayan in Bhaktapur \n3. Budhanilkantha Temple \n4. Ichangu Narayan & Bichangu Narayan in Kathmandu.",
+
+
+
+     "panchangaAndSuvaSait":"Panchanga And Suva Sait",
+     "previousMonth":"Previous Month",
+     "nextMonth":"Next Month",
+     "previousYear":"Previous Year",
+     "nextYear":"Next Year",
+
+
+     "termsAndConditions":"Terms and Conditions",
+     "definitions":"1. Definitions",
+     "usersaccounts":"2. Users’ Accounts and membership",
+     "backupsOfThe":"3. Backups of the Users’ information",
+     "linksTo":"4. Links to other resources",
+     "intellecual":"5. Intellectual property rights",
+     "termination":"6. Termination",
+     "changesAnd":"7. Changes and amendments",
+     "acceptance":"8. Acceptance of these terms",
+     "contactUs":"9. Contact Us",
+     "thisDocument":"This document was last updated on April 11, 2023",
+     "terms1":"Welcome to Nepali Calendar! \n\nThese terms & conditions outline the rules & regulations for the use of Nepali Calendar. \n\nBy using this app we assume you accept these terms and conditions. Do not continue to use Nepali Calendar if you do not agree to take all of the terms and conditions stated on this page.",
+
+     "terms2":"For the purposes of these Terms and Conditions: ",
+     "terms2A":"\n• Application means the Nepali Calendar App downloaded by You on any electronic device.",
+     "terms2B":"\n• Application Store means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.",
+     "terms2C":"\n• Country refers to: Nepal Company (referred to as either We, Us or Our in this Agreement) refers to Nepali Calendar.",
+     "terms2D":"\n• Device means any device that can access the Service such as a cellphone or a digital tablet.",
+     "terms2E":"\n• Service refers to the Application.",
+     "terms2F":"\n• Terms and Conditions (also referred as Terms) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.",
+     "terms2G":"\n• You means the individual accessing or using our App on behalf of which such individual is accessing or using the Service, as applicable.",
+
+
+
+
+     "terms3":"We do not own any data, information or material (collectively, “Content”) that you submit in the Mobile App in the course of using the Service. You shall have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, & intellectual property ownership or right to use of all submitted Content. We may monitor and review the Content in the Mobile App submitted or created using our Services by you. You grant us permission to access, copy, distribute, store, transmit, reformat, display and perform the Content of your user account solely as required for the purpose of providing the Services to you. Without limiting any of those warranties, we have the right, though not the obligation, to, in our own sole discretion, refuse or remove any Content that, in our reasonable opinion, violates any of our policies or is in any way harmful or objectionable. Unless specifically permitted by you, your use of the Mobile Application and Services does not grant us the license to use, reproduce, adapt, modify, publish or distribute the Content created by you or stored in your user account for commercial, marketing or any similar purpose.",
+     "terms4":"We perform regular backups of the Content and will do our best to ensure completeness and accuracy of these backups. In the event of the hardware failure or data loss we will restore backups automatically to minimize the impact and downtime.",
+
+     "terms5":"Although the Mobile Application and Services may link to other resources (such as websites, mobile applications, etc.), we are not, directly or indirectly, implying any approval, association, sponsorship, or endorsement with any linked resource, unless specifically stated herein. We are not responsible for examining or evaluating, and we do not warrant the offerings of, any businesses or individuals or the content of their resources. We do not assume any responsibility or liability for the actions, products, services, and content of any other third parties. You should carefully review the legal statements and other conditions of use of any resource which you access through a link in the Mobile Application. Your linking to any other off-site resources is at your own risk.",
+     "terms6": "\"Intellectual Property Rights” means all present and future rights conferred by statute, common law or equity in or in relation to any copyright and related rights, trademarks, designs, patents, goodwill and the right to sue for passing off, rights to inventions, rights to use, and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, rights to claim priority from, such rights and all similar or equivalent rights or forms of protection and any other results of intellectual activity which subsist or will subsist now or in the future in any part of the world. This Agreement does not transfer to you any intellectual property owned by the Operator, and all rights, titles, and interests in and to such property will remain (as between the parties) solely with the Operator. All trademarks, service marks, graphics and logos used in connection with the Mobile App and Services, are registered trademarks of the Operator or its licensors. Your use of the Mobile Application and Services grants you no right or license to reproduce or otherwise use any of the Operator or trademarks.",
+     "terms7":"We may terminate or suspend Your access immediately, without prior notice, for any reason whatsoever, including without limitation if You breach these Terms & Conditions. \n\nUpon termination, Your right to use the Service will cease immediately.",
+     "terms8":"We reserve the right to modify this terms related to the Mobile App and Services at any time at our discretion. When we do, we will post a notification in the Mobile Application. We may also provide notice to you in other ways at our discretion, such as through the contact information you have provided. \n\nAn updated version of this Agreement will be effective immediately upon the posting of the revised Agreement unless otherwise specified. Your continued use of the Mobile Application and Services after the effective date of the revised Agreement (or such other act specified at that time) will constitute your consent to those changes.",
+     "terms9":"You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Mobile Application and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Mobile Application and Services.",
+     "terms10":"If you have any questions, concerns, or complaints regarding this Agreement, we encourage you to contact us at info@ourvirtualtribes.com.",
+
+    "privacyPolicy":"Privacy Policy",
+    "lastUpdated":"Last updated: April 10, 2023",
+    "oneOfOurMain":"one of our main priorities is the privacy of our visitors. Nepali Calendar may sometimes use Your Personal data to provide & improve the Service. By using our Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy document contains types of information that is collected and recorded by Nepali Calendar and how we use it. \n\nIf you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.",
+    "whatInformation":"1. What Information Do We Collect?",
+    "personalInformation":"1.1 Personal information you disclose to us",
+    "whileUsingOur" : "While using Our app, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:",
+    "whileUsingOurA" : "• Email address",
+    "whileUsingOurB" : "• First name and last name",
+    "whileUsingOurC" : "• Phone number ",
+    "whileUsingOurD" : "• Address, State, Province, ZIP/Postal code, City",
+    "informationAutomatically":"\n1.2 Information automatically collected",
+    "purposeOfUseOf":"2. Purpose of use of Information",
+    "howLongDoWeKeep":"3. How Long do we keep your information?",
+    "theCompanyMay":"The Company may use Personal Data for the following purposes:",
+    "theCompanyMayA":"• To provide and maintain our Service, including to monitor the usage of our Service.",
+    "theCompanyMayB":"• To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.",
+    "theCompanyMayC":"• To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.",
+    "theCompanyMayD":"• To provide You with news, special offers and general information about other services and events which we offer that are similar to those that you have already enquired about unless You have opted not to receive such information.",
+    "theCompanyMayE":"• For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, and to evaluate and improve our App, products, services, and your user experience.",
+    "nepaliCalendarWillRetain":"Nepali Calendar will retain Your Personal Data only for as long as is necessary for the purposes set out in Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations, resolve disputes, & enforce our legal agreements & policies.\n\nNepali Calendar will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.",
+    "transferOfThe":"4. Transfer of the Users’ information",
+    "deleteUsersPersonal":"5. Delete Users’ Personal Data",
+    "yourInformationIncluding":"Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located.\n\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.",
+    "ourAppMayGive":"Our App may give You the ability to delete certain information about You from within the Service. You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us. Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.",
+    "weAutomaticallyCollect":"We automatically collect certain information when you visit, use, or navigate the App. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your",
+    "weAutomaticallyCollectA":"• IP address",
+    "weAutomaticallyCollectB":"• Browser and device characteristics",
+    "weAutomaticallyCollectC":"• Operating system",
+    "weAutomaticallyCollectD":"• Language preferences",
+    "weAutomaticallyCollectE":"• Device name, Location",
+    "weAutomaticallyCollectF":"• and other technical information.",
+    "securityAndOperation":"This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.",
+    "disclosureOfUsersPersonal":"6. Disclosure of Users’ Personal Data",
+    "changesToThisPrivacy":"7. Changes to this Privacy Policy",
+    "securityMeasuresForUsers":"8. Security measures for Users’ information",
+    "nepaliCalendarMay":"Nepali Calendar may disclose Your Personal Data in the good faith belief that such action is necessary to: ",
+    "nepaliCalendarMayA":"• Comply with a legal obligation ",
+    "nepaliCalendarMayB":"• Protect and defend the rights or property of the Company ",
+    "nepaliCalendarMayC":"• Prevent or investigate possible wrongdoing in connection with the Service ",
+    "nepaliCalendarMayD":"• Protect the personal safety of Users of the Service or the public ",
+    "nepaliCalendarMayE":"• Protect against legal liability",
+    "weMayUpdateOur":"We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page. \nWe will let You know via email and/or a prominent notice on Our App, prior to the change becoming effective and update the Last updated date at the top of this Privacy Policy. \nChanges to this Privacy Policy are effective when they are posted on this page.",
+    "theSecurityOfYourPersonal":"The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.",
+    "ifYouHaveAny":"If you have any questions about our Privacy Policy, do not hesitate to contact us at info@ourvirtualtribes.com.",
+
+
+
+
+
+    "marketplace":"Marketplace",
+    "recent":"Recent",
+    "recommendation":"Recommendation",
+    "boostedPost":"Boosted Post",
+    "boosPostTo":"  Boos Post to sell quickly",
+    "myProducts":"My Products & Services",
+    "boostAds":"BOOST ADS",
+    "weWantToAssist":"We want to assist you in achieving a quicker sale.",
+    "byProvidingTopOfThe":"By providing top-of-the-category placement for a limited period, Boost can increase the exposure of your product to a larger audience of potential buyers. This ensures that your product receives high engagement and visibility. Our smart algorithm ensures that when people search for related products, your listings appear first, ahead of regular listings. \n\nOnce you have used Boost, you can track the growth in your product's reach through the Analytics feature on your profile.",
+    "boostYourListing":"Boost your listing",
+    "productsSelected":"2 Products Selected !",
+    "selectNumberOfHours":"Select Number of Hours",
+    "productService":"Product/Service Link",
+    "pleaseEnterProductServiceName":"Please Enter Product/Service Link",
+    "total":"Total",
+    "bankDetails":"BANK DETAILS\n",
+    "bankName":"Bank Name: Nabil Bank\n",
+    "acHolderName":"A/C Holder Name: Hari Lochan Neupane\n",
+    "accountNumber":"Account Number: 3110017514066 ",
+    "pleaseAttachPaymentScreen":"Please attach payment screenshot for Payment Confirmation.",
+    "uploadScreenShot":"Upload Screenshot of Payment Receipt",
+    "selectAfile":"Select a file or drag & drop here",
+    "selectFiles":"SELECT FILE",
+    "selectYourProductService":"Select your Product/Service",
+    "sortByNew":"Sort by",
+    "latestnew":"  Latest",
+    "priceLowToHigh":"   Price Low to High",
+    "priceHeightToLow":"  Price Height to Low",
+    "nextNew":"Next",
+    "all":"All",
+    "jobs":"Jobs",
+    "automobiles":"Automobiles",
+    "menFashion":"Men\u0027s Fashion",
+    "viewAllNew":"View All",
+    "productNServiceTitle":"Product/Service Title",
+    "productNServiceCategory":"Product/Service Category",
+    "addProdPhoto":"Add Product Photos"
+
+
+
+
+
+
+
+
+}
