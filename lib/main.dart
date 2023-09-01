@@ -10,7 +10,7 @@ import 'package:job_seekers/utils/route.dart';
 void main() async{
   await GetStorage.init("TSH");
   GlobalController g = Get.put(GlobalController());
-  bool? isdark;
+  bool? isdark;//
   bool? isEnglish;
   isdark = g.getStorage.read('isDark');
   isEnglish = g.getStorage.read('isEnglish');
